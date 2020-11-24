@@ -25,6 +25,7 @@ When we compare the newly run code, we find that it has a much faster run time t
 ### Figure 4: 2018 Results (Original Code - Slower run time)
 ![Original](Original Code 2018 v2.png)
 
+
 ## Summary
 ### Advantages & Disadvantages of Refactoring Code
 Advantages of refactoring code might be that it can optimize code without changing behavior, it can increase efficiency and thus potentially run time, it can make the code easier for others to understand or be used by other programs/programmers down the line, and it can fix potential bugs and code smells. 
