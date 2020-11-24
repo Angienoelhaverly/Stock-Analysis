@@ -13,5 +13,6 @@ The purpose of this analysis is to examine two sets of data on stock within two 
 ![VBA_Challenge_2018.png.png](VBA_Challenge_2018.png.png)
 
 ### Results on Stock Performance
+When we compare the results on stock performance for the two years, we find that the two years had almost complete opposite stock returns. While the two years saw similar trading volume, the returns on all the stocks for both years were very different. 2017 saw mostly positive returns with only one stock showing a negative return (TERP) while in 2018, all but two stocks (ENPH & RUN) showed negative returns.
 
 ### Results on Refactored Code - Improved Run Time
