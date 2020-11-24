@@ -7,6 +7,7 @@ The purpose of this analysis is to examine two sets of data on stock within two 
 
 ## Results
 ![VBA_Challenge_2017.png.png](VBA_Challenge_2017.png.png)
+![VBA_Challenge_2018.png.png](VBA_Challenge_2018.png.png)
 ### Results on Stock Performance
 
 ### Results on Refactored Code - Improved Run Time
