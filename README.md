@@ -18,6 +18,9 @@ When we compare the results on stock performance for the two years, we find that
 ### Results on Refactored Code - Improved Run Time
 When we compare the newly run code, we find that it has a much faster run time than the original code. In fact, the performance improved by almost 6 times as much! This improvement in efficiency and run time is due to the fact that the new code only has to run through all the data once. In the original code, the vba script/macro had to read and parse once for every ticker which is 12 tickers. However, by using arrays inside the for loops and by eliminating the nested loop, the new code is able to only run through the list once as it puts the data in the appropriate array inside the for loop. A nested loop can slow run time down because it multiplies the number of times it has to parse through things. Eliminating the nested loop and instead having two separate for loops, helps drastically increase the run time. 
 
+![Original Code 2017](https://user-images.githubusercontent.com/73972332/100033056-3748a800-2dae-11eb-90db-9084342a341a.png)
+
+
 ## Summary
 ### Advantages & Disadvantages of Refactoring Code
 Advantages of refactoring code might be that it can optimize code without changing behavior, it can increase efficiency and thus potentially run time, it can make the code easier for others to understand or be used by other programs/programmers down the line, and it can fix potential bugs and code smells. 
